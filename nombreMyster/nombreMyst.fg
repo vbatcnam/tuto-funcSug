@@ -1,0 +1,40 @@
+# 1) Créer le nombre à trouver
+# 2) Afficher ("J'ai choisi un nombre.")
+# 3) Tant que que le nombre n'est pas trouvé :
+#     3.1) Afficher ("Devine mon nombre..")
+#     3.2) Attendre et lire le nombre entré par l'utilisateur
+#     3.3) Si supérieur au nombre à trouver, affiche "Trop grand !"
+#     3.4) Si inférieur au nombre à trouver, affiche "Trop petit !"
+#     3.5) Si égal au nombre à trouver, affiche "Bravo !"
+
+
+# 1) Créer le nombre à trouver
+# ============================
+.var nombreATrouver <-- :randomIntBetween 1 100
+.var reponse <-- 0
+
+# 2) Afficher ("J'ai choisi un nombre.")
+# ======================================
+(displayNewMessageIn "J'ai choisi un nombre" "#gameZone")
+
+# 3) Tant que que le nombre n'est pas trouvé :
+# ======================================
+{while [$reponse /= $nombreATrouver]
+#	3.1) Afficher ("Devine mon nombre.")
+	(displayNewMessageIn "Devine mon nombre" "#gameZone")
+#     3.2) Attendre et lire le nombre entré par l'utilisateur
+	reponse <-- .awaitNewHumanNumberIn "#gameZone"
+#     3.3) Si supérieur au nombre à trouver, affiche "Trop grand !"
+	{if [$reponse > $nombreATrouver]
+		(displayNewMessageIn "Trop grand !" "#gameZone")
+	}
+#     3.4) Si inférieur au nombre à trouver, affiche "Trop petit !"
+	{if [$reponse < $nombreATrouver]
+		(displayNewMessageIn "Trop petit !" "#gameZone")
+	}
+#     3.5) Si égal au nombre à trouver, affiche "Bravo !"
+	{if [$reponse = $nombreATrouver]
+		(displayNewMessageIn "Bravo !" "#gameZone")
+	}
+}
+
