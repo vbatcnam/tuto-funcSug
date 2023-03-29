@@ -1,1 +1,2 @@
-displayNewMessage ("Hello word !")
+# Attention ! Dans ce langage les appels de fonctions s'écrivent avec les parenthèses qui englobent tout l'appel (maFonction parametre1 ... parametreN)
+(displayNewMessage "Hello word !")
