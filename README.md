@@ -1,6 +1,6 @@
 # tuto-funcSug
 
-Prérequis : HTML, Java script(les bases), CSS (les bases)
+*Prérequis* : HTML, JavaScript(les bases), CSS (les bases)
 
 FuncSug est un nouveau langage de programmation réactive concurrent issu du langage sugarCubes.
 
