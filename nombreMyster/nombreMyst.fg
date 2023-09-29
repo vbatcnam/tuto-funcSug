@@ -21,7 +21,7 @@ displayNewMessageIn("J'ai choisi un nombre","#gameZone")
 # ======================================
 while reponse != nombreATrouver :
 #	3.1) Afficher ("Devine mon nombre.")
-	displayNewMessageIn("Devine mon nombre, "#gameZone")
+	displayNewMessageIn("Devine mon nombre", "#gameZone")
 #     3.2) Attendre et lire le nombre entré par l'utilisateur
 	reponse := awaitNewHumanNumberIn("#gameZone")
 #     3.3) Si supérieur au nombre à trouver, affiche "Trop grand !"
@@ -33,5 +33,3 @@ while reponse != nombreATrouver :
 #     3.5) Si égal au nombre à trouver, affiche "Bravo !"
 	if reponse = nombreATrouver :
 		displayNewMessageIn("Bravo !", "#gameZone")
-}
-
