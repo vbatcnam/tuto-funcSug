@@ -10,9 +10,5 @@ Pour en savoir plus sur [sugarCubes](https://github.com/LordManta/SugarCubesJS)
 
 Je vais donc tester ce langage en codant des minis programmes : 
 
-Le premier programme que l'on code quand on découvre un nouveau langage est : "Hello world".
-
-Le second programme est : le nombre mystère.
-
-Le [wiki](https://github.com/vbatcnam/tuto-funcSug/wiki)
-
+Je vous fait part de mon apprentissage avec un tuto sur le [wiki](https://github.com/vbatcnam/tuto-funcSug/wiki)
+ 
