@@ -8,7 +8,5 @@ Pour en savoir plus sur [FuncSug](https://github.com/cl4cnam/funcSug)
 
 Pour en savoir plus sur [sugarCubes](https://github.com/LordManta/SugarCubesJS)
 
-Je vais donc tester ce langage en codant des minis programmes : 
-
-Je vous fait part de mon apprentissage avec un tuto sur le [wiki](https://github.com/vbatcnam/tuto-funcSug/wiki)
+Je vais donc partager avec vous mon apprentissage de FuncSug avec un tuto, que je rempli au fur et à mesure, sur le [wiki](https://github.com/vbatcnam/tuto-funcSug/wiki)
  
