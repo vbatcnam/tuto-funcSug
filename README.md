@@ -2,7 +2,9 @@
 
 *Prérequis* : HTML, JavaScript(les bases), CSS (les bases)
 
-FuncSug est un nouveau langage de programmation réactive concurrent issu du langage sugarCubes.
+FuncSug est un nouveau langage de programmation réactive concurrent issu du langage sugarCubes.<br>
+Actuellement, FuncSug est fait pour développer des programmes sur le navigateur.<br>
+Donc si vous connaissez JavaScript, je pense que FuncSug va vous faciliter la vie. <br>
 
 Pour en savoir plus sur [FuncSug](https://github.com/cl4cnam/funcSug) 
 
