@@ -1,0 +1,3 @@
+displayNewMessage("Comment tu t'appelle ?")
+var nom := awaitHumanText()
+displayNewMessage('Coucou, ' + nom + ' !')
