@@ -10,6 +10,5 @@ Pour en savoir plus sur [FuncSug](https://github.com/cl4cnam/funcSug)
 
 Pour en savoir plus sur [sugarCubes](https://github.com/LordManta/SugarCubesJS)
 
-Je vais donc partager avec vous mon apprentissage de FuncSug avec un [tuto](https://funcsug.prefasite.fr/fr/tuto/#supportWeb), que je rempli au fur et à mesure.
-Il y a aussi le [wiki](https://github.com/vbatcnam/tuto-funcSug/wiki)
+Je vais donc partager avec vous mon apprentissage de FuncSug avec un [tuto](https://funcsug.prefasite.fr/fr/tuto/#supportWeb), que je rempli au fur et à mesure, ainsi que le guide des syntaxes sur le [wiki](https://github.com/vbatcnam/tuto-funcSug/wiki)
  
