@@ -1,0 +1,12 @@
+displayNewMessageIn("Combien font 2 X 5 ?", "#gameZone")
+parallel exitAfter 1 finished ||
+	var resultat := awaitNewHumanNumberIn("#gameZone")
+	if resultat = 10 :
+		displayNewMessageIn('Wow ! Quelle rapidité ! Tu as tout-à-fait raison !',"#gameZone")
+	#le else n'existe pas encore!!! pff :p
+	if resultat != 10 :
+		displayNewMessageIn('Wow ! Quelle rapidité ! Mais la réponse est 10 ;)',"#gameZone")
+||
+	waitSeconds(5)
+	displayNewMessageIn("Moi ! Moi ! Moi ! 10 !","#gameZone")
+
