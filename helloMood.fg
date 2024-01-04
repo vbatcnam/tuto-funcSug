@@ -1,0 +1,11 @@
+displayNewMessage("Comment tu t'appelle ?")
+
+parallel(select 1) ||
+||=====================
+	var reponse := awaitHumanText()
+...----------------
+	playSoundFile('birds.mp3')
+||=====================
+	waitSeconds(5)
+...----------------
+	playSoundFile('ducks.mp3')
