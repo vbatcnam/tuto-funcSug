@@ -5,10 +5,14 @@
 FuncSug est un nouveau langage de programmation réactive concurrent issu du langage sugarCubes.<br>
 Actuellement, FuncSug est fait pour développer des programmes sur le navigateur.<br>
 Donc si vous connaissez JavaScript, je pense que FuncSug va vous faciliter la vie. <br>
+Je le trouve bien pratique pour développer des jeux HTML 😎
 
-Pour en savoir plus sur [FuncSug](https://github.com/cl4cnam/funcSug) 
+Je vais donc partager avec vous mon apprentissage de FuncSug. 
 
-Pour en savoir plus sur [sugarCubes](https://github.com/LordManta/SugarCubesJS)
+Vous pouvez suivre le [tutoriel](https://funcsug.prefasite.fr/fr/tuto/#supportWeb), que je rempli au fur et à mesure de mon apprentissage.
 
-Je vais donc partager avec vous mon apprentissage de FuncSug avec un [tuto](https://funcsug.prefasite.fr/fr/tuto/#supportWeb), que je rempli au fur et à mesure, ainsi que le guide des syntaxes sur le [wiki](https://github.com/vbatcnam/tuto-funcSug/wiki)
+Le [manuel d'utilisation](https://funcsug.prefasite.fr/fr/manuel/co/guide.html) regroupe la syntaxe. Je le met à jour régulièrement au fil de mon apprentissage.
  
+Pour en savoir plus sur 
+- [FuncSug](https://github.com/cl4cnam/funcSug) 
+- [sugarCubes](https://github.com/LordManta/SugarCubesJS)
