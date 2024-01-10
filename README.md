@@ -9,7 +9,7 @@ Je le trouve bien pratique pour développer des jeux HTML 😎
 
 Je vais donc partager avec vous mon apprentissage de FuncSug. 
 
-Je poste ici les solutions aux exercices du [tutoriel](https://funcsug.prefasite.fr/fr/tuto/#supportWeb) que vous pouvez suivre. (je rempli au fur et à mesure de mon apprentissage).
+Je poste ici les solutions aux exercices du [tutoriel](https://funcsug.prefasite.fr/fr/tuto/#supportWeb) que vous pouvez suivre. (MAJ au fur et à mesure de mon apprentissage).
 
 Le [manuel d'utilisation](https://funcsug.prefasite.fr/fr/manuel/co/guide.html) regroupe la syntaxe. Je le met à jour régulièrement au fil de mon apprentissage.
  
