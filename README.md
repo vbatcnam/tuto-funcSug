@@ -16,3 +16,6 @@ Le [manuel d'utilisation](https://funcsug.prefasite.fr/fr/manuel/co/guide.html) 
 Pour en savoir plus sur 
 - [FuncSug](https://github.com/cl4cnam/funcSug) 
 - [sugarCubes](https://github.com/LordManta/SugarCubesJS)
+
+Pour s'amuser
+- Le [mini quizz](https://vbatcnam.github.io/tuto-funcSug/miniQuizz/)
