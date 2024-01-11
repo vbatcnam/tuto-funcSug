@@ -19,3 +19,6 @@ Pour en savoir plus sur
 
 Pour s'amuser
 - Le [mini quizz](https://vbatcnam.github.io/tuto-funcSug/miniQuizz/)
+
+Pour discuter
+- https://github.com/vbatcnam/tuto-funcSug/discussions
