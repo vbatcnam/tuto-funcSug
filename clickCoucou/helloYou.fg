@@ -1,3 +1,5 @@
+# auteur texte et images : V.Lion 2024
+#=======================================
 var image := displayNewImageIn('feeGars1.png', '#gameZone')
 awaitClickBeep(image)
 displayNewMessage("Coucou ! Je suis Ciel.")
