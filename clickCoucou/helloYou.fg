@@ -1,0 +1,13 @@
+var image := displayNewImageIn('feeGars1.png', '#gameZone')
+awaitClickBeep(image)
+displayNewMessage("Coucou ! Je suis Ciel.")
+displayNewMessage("Et toi comment tu t'appelle ?")
+var nom := awaitHumanText()
+displayNewMessage('Ravi de faire ta connaissance ' + nom + ' !')
+awaitClickBeep(image)
+displayNewMessage('Au revoir !')
+
+
+
+
+
