@@ -1,0 +1,28 @@
+var image
+
+parallel ||
+	image := displayNewImageIn('robotHeureux.png', '#gameZone')
+||
+	displayNewMessage("Bonjour Je suis Suggy ! Et toi, comment tu t'appelles ?")
+
+parallel(select 1) ||
+||=====================
+	var reponse := awaitHumanText()
+...----------------
+	parallel ||
+		displayImageIn('robotOiseaux.png', image)
+	||
+		playSoundFile('birds.mp3')
+	||
+		displayNewMessage("Je suis heureux de te connaitre " + reponse + "!")
+||=====================
+	waitSeconds(7)
+...----------------
+	displayImageIn('robotSad.png', image)
+	waitSeconds(2)
+	parallel ||
+		displayImageIn('robotCanard.png', image)
+	||
+		playSoundFile('ducks.mp3')
+
+
