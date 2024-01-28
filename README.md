@@ -19,6 +19,7 @@ Pour en savoir plus sur
 
 Pour s'amuser
 - Le [mini quizz](https://vbatcnam.github.io/tuto-funcSug/miniQuizz/)
+- [Le robot capricieux](https://vbatcnam.github.io/tuto-funcSug/robotCapricieux2/)
 
 Pour discuter
 - https://github.com/vbatcnam/tuto-funcSug/discussions
