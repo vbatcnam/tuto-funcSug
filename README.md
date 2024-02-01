@@ -21,5 +21,5 @@ Pour s'amuser
 - Le [mini quizz](https://vbatcnam.github.io/tuto-funcSug/miniQuizz/)
 - [Le robot capricieux](https://vbatcnam.github.io/tuto-funcSug/robotCapricieux2/)
 
-Pour discuter
+Pour discuter, émettre votre avis, poser vos questions, poster les codes de vos programmes en FuncSug.
 - https://github.com/vbatcnam/tuto-funcSug/discussions
