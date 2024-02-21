@@ -1,0 +1,43 @@
+def compte_a_rebours (p_depart):
+	while p_depart > 0 :
+		waitSeconds(1)
+		p_depart -= 1
+		displayMessageIn(p_depart, '#timer')
+
+def naissance():
+	var avatar := awaitFileContent('poussin.svg', 'text')
+	displayMessageIn(avatar, '#scene')
+
+def nourrir():
+	displayNewMessage("Je n'ai plus faim !")
+
+
+# Préparation de la scène
+#===============================================
+# On place la scène de la maison. C'est la scène principale.
+var oeuf := awaitFileContent('egg.svg', 'text')
+displayMessageIn(oeuf, '#scene')
+
+
+# Attendre click sur bouton "couver"
+awaitClickBeep('#action')
+
+# Initialiser et afficher le compteur
+var max := 5
+displayMessageIn(max, '#timer')
+
+# Couver pendant un nombre de jours déterminés.
+#===============================================
+compte_a_rebours(max)
+
+#~ L'oeuf éclot.
+#===============
+naissance()
+
+#~ nourrir le bébé en parallèle le bébé grandit
+#==============================================
+# afficher bouton "nourrir"
+displayMessageIn( 'nourrir', '#action')
+awaitClickBeep ('#action')
+nourrir()
+

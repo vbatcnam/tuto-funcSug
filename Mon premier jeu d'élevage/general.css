@@ -1,0 +1,22 @@
+body, html {
+	height: 100%;
+}
+
+#gameBoard, body, html {
+	display: grid;
+	place-items: center;
+}
+
+#scene {
+	position: relative;
+}
+
+#avatar {
+	position: absolute;
+	top: 260px;
+	left: 300px;
+}
+
+.temperature, lampe{
+	cursor: pointer
+}
