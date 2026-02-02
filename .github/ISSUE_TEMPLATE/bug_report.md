@@ -1,3 +1,10 @@
+# Choose your language / Choisissez votre langue  
+
+- 🇫🇷 [Français](#-🇫🇷-Rapport-de-bug)
+- 🇬🇧 [English](#-EB-bug-report)
+
+# EN bug report 
+… English text …
 ---
 name: Bug report
 about: Create a report to help us improve
@@ -36,3 +43,15 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+
+# 🇫🇷 rapport de bug 
+… texte français …
+
+Merci de prendre un moment pour décrire clairement le problème.  
+Les informations ci‑dessous sont essentielles pour comprendre, reproduire et corriger le bug.
+
+---
+
+### 📌 Description du problème
+Expliquez ce qui ne fonctionne pas, ce que vous attendiez, et ce qui s’est produit à la
