@@ -1,6 +1,6 @@
 # Choose your language / Choisissez votre langue  
 
-- 🇫🇷 [Français](#-🇫🇷-Rapport-de-bug)
+- 🇫🇷 [Français](#-🇫🇷-rapport-de-bug)
 - 🇬🇧 [English](#-EB-bug-report)
 
 # EN bug report 
