@@ -54,4 +54,32 @@ Les informations ci‑dessous sont essentielles pour comprendre, reproduire et c
 ---
 
 ### 📌 Description du problème
-Expliquez ce qui ne fonctionne pas, ce que vous attendiez, et ce qui s’est produit à la
+Expliquez ce qui ne fonctionne pas, ce que vous attendiez, et ce qui s’est produit à la place.
+
+### 🔁 Étapes pour reproduire le bug
+1. …
+2. …
+3. …
+4. …
+
+### 🖼️ Capture d’écran (optionnel)
+Ajoutez une image si cela aide à illustrer le problème.
+
+---
+
+### 💻 Informations système
+- **Système d’exploitation :** (Windows / macOS / Linux + version)
+- **Version du logiciel / plugin :**
+- **Version de GIMP (si applicable) :**
+- **Version de G’MIC (si applicable) :**
+
+---
+
+### 📂 Fichier(s) utilisé(s) (optionnel)
+Lien ou fichier si nécessaire pour reproduire le bug.
+
+---
+
+### 📝 Informations supplémentaires
+Tout détail qui pourrait aider à comprendre ou reproduire le problème.
+
